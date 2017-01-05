@@ -1,0 +1,22 @@
+mode: set
+TestDriveDev/mock/calculator/calculator.go:15.43,19.2 1 1
+TestDriveDev/mock/calculator/calculator.go:25.33,27.2 1 1
+TestDriveDev/mock/calculator/calculator.go:29.38,31.2 1 1
+TestDriveDev/mock/calculator/calculator.go:33.38,35.2 1 1
+TestDriveDev/mock/calculator/calculator.go:37.36,39.2 1 1
+TestDriveDev/mock/calculator/calculator.go:41.28,43.2 1 1
+TestDriveDev/mock/example/example.go:20.58,21.16 1 0
+TestDriveDev/mock/example/example.go:24.2,24.39 1 0
+TestDriveDev/mock/example/example.go:21.16,23.3 1 0
+TestDriveDev/mock/example/example.go:27.68,29.2 1 0
+TestDriveDev/mock/example/example.go:31.63,34.2 2 1
+TestDriveDev/mock/example/example.go:36.65,39.2 2 1
+TestDriveDev/mock/example/example_mock.go:11.54,15.2 2 1
+TestDriveDev/mock/example/example_mock.go:17.64,20.2 2 1
+TestDriveDev/tableTriveTest/word/word.go:8.34,10.22 2 1
+TestDriveDev/tableTriveTest/word/word.go:15.2,15.25 1 1
+TestDriveDev/tableTriveTest/word/word.go:20.2,20.13 1 1
+TestDriveDev/tableTriveTest/word/word.go:10.22,11.26 1 1
+TestDriveDev/tableTriveTest/word/word.go:11.26,13.4 1 1
+TestDriveDev/tableTriveTest/word/word.go:15.25,16.46 1 1
+TestDriveDev/tableTriveTest/word/word.go:16.46,18.4 1 1
