@@ -185,6 +185,7 @@ func TestCheckQuotaNotifiesUser(t *testing.T) {
 - [gomock](https://github.com/golang/mock)
 
 我们使用testify框架，原因：
+
 1. 提供了assertion，request等功能。
     - assertion：测试的结果和预期的值做比较的一个工具
     - request： 功能和assertion类似，只是如果第一个期待的值错误就直接退出函数。
@@ -365,7 +366,7 @@ func:
 
 .PHONY: collect
 ```
-执行==make test==:
+执行make test:
 
 ```
 go test -cover ./...
@@ -373,7 +374,7 @@ ok  	TestDriveDev/mock/calculator	0.016s	coverage: 100.0% of statements
 ok  	TestDriveDev/mock/example	0.012s	coverage: 66.7% of statements
 ok  	TestDriveDev/tableTriveTest/word	0.007s	coverage: 100.0% of statements
 ```
-执行==make collect_bool && make func==:
+执行make collect_bool && make func:
 
 ```
 TestDriveDev/mock/calculator/calculator.go:15:	newCalculator				100.0%
